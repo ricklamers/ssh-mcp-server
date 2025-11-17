@@ -1,0 +1,12 @@
+src/
+*.ts
+!*.d.ts
+tsconfig.json
+.gitignore
+.DS_Store
+*.log
+ssh-config.json
+ssh-config.example.json
+QUICKSTART.md
+node_modules/
+

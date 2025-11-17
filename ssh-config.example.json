@@ -1,0 +1,26 @@
+{
+  "servers": [
+    {
+      "slug": "production",
+      "host": "prod.example.com",
+      "port": 22,
+      "username": "deploy",
+      "privateKeyPath": "/path/to/prod-key.pem",
+      "timeout": 10000
+    },
+    {
+      "slug": "staging",
+      "host": "staging.example.com",
+      "username": "developer",
+      "password": "your-password-here"
+    },
+    {
+      "slug": "database",
+      "host": "db.example.com",
+      "username": "dbadmin",
+      "privateKey": "BASE64_ENCODED_PRIVATE_KEY_HERE",
+      "passphrase": "optional-passphrase-if-key-is-encrypted"
+    }
+  ]
+}
+
