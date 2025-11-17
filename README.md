@@ -1,3 +1,24 @@
+don't use this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SSH MCP Server
 
 A Model Context Protocol (MCP) server that enables secure SSH command execution on remote servers with persistent connection management.
